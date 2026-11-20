@@ -29,4 +29,4 @@ Personal developer profile for dut-codes | Python • Linux • Cybersecurity
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/dut-codes
+GitHub: https://github.com/dutcodes
