@@ -4,7 +4,7 @@ Personal developer profile for dut-codes | Python • Linux • Cybersecurity
 # Hi 👋 I'm  Dut
 
 💻 Aspiring Software Developer  
-🐧 Kali Linux user  
+🐧 Linux user  
 🔐 Learning Cybersecurity  
 
 
